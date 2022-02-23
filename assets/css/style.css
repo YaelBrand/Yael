@@ -906,7 +906,7 @@ a:hover .overlay {
 /***********************************************************************************************/
 
 .clients-bg {
-  background: url('/assets/images/new/MOIST.jpg') center top;
+  background: url('../images/new/MOIST.jpg') center top;
   position: relative;
   padding: 60px 0;
 }
